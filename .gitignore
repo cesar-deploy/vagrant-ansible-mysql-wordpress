@@ -1,5 +1,1 @@
-.gitmodules
-ubuntu-bionic-18.04-cloudimg-console.log
-.vagrant
-chave-git
-chave-git.pub
+./ignorados/
