@@ -1,0 +1,5 @@
+[webserver]
+192.168.1.106 ansible_user=vagrant ansible_ssh_private_key_file="/home/vagrant/.ssh/id_rsa"
+
+[database]
+192.168.1.107 ansible_user=vagrant ansible_ssh_private_key_file="/home/vagrant/.ssh/id_rsa"
